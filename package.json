@@ -1,5 +1,5 @@
 {
-  "homepage": "https://zyusuke10.github.io/movieapp",
+  "homepage": "http://zyusuke10.github.io/my-movie-app",
   "name": "movieapp",
   "version": "0.1.0",
   "private": true,
@@ -18,8 +18,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
