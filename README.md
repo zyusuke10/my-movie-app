@@ -1,3 +1,7 @@
+Check out the live server here 
+https://zyusuke10.github.io/my-movie-app/
+
+
 
 API request 例：https://api.themoviedb.org/3/movie/popular?api_key=d0bb90ba32c914321e4dc786821b51e3
 API Image : https://image.tmdb.org/t/p/w500/
